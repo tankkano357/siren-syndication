@@ -1,0 +1,272 @@
+⸻
+
+1) Universal Drop Brief (1-pager)
+
+DROP CODE: SS-XXX-000
+TITLE: [Name]
+PERSONA: [Echo Knox]
+TIER: Free | Core | VIP | PPV
+LAUNCH DT: [YYYY-MM-DD HH:MM CT]
+LOOK/MOOD: [noir / cyber-luxe / retro]
+SET & WARDROBE: [palette, key props]
+HERO HOOK (≤90 chars): [story-first one-liner]
+CAPTION (social-safe): [tease; CTAs avoid spam]
+HASHTAGS (3–5): #SirenSyndicate #SirenDrop #[Persona] #[Niche]
+ASSETS: # of images / clips, durations, AR
+PROMPTS (image/video): positive / negative / video add-ons
+OFFERS: Core price, VIP price, PPV price+window
+LINK: [sirensyndicate.com/link?utm…]
+CHECKLIST:
+	•	Teaser cut 6–10s (9:16)
+	•	Core set edited + alt text
+	•	VIP long cut
+	•	Filenames + UTM audited
+	•	Posts scheduled (IG/TikTok/X/Reddit)
+	•	PPV DM drafted
+
+⸻
+
+2) Asset QC Checklist (copy per set)
+	•	Face/hands clean (no extra digits)
+	•	Skin realistic (no plastic sheen)
+	•	Logos/watermarks removed
+	•	Resolution/AR correct (1080x1920/2160x3840)
+	•	Audio levels normalized (if video)
+	•	Seamless loop (6–8s teasers)
+	•	Filename discipline (see #12)
+
+⸻
+
+3) Caption/Hook Builder
+
+Pattern A – Story First:
+[Persona] in [vibe] with [tease]. Full set lives at the hub.
+
+Pattern B – Sarcastic CTA:
+Admission: limited. Attention: not.
+
+Pattern C – Lore:
+Chapter 1: [two-word image]. Chapter 2 behind the door.
+
+Safe CTAs: “link in bio,” “see the hub,” “tonight’s drop is pinned.”
+
+⸻
+
+4) DM Flow Template (Welcome → Offer → VIP → Winback)
+
+Welcome (instant)
+
+You found Siren Syndicate. Tonight’s feature: [Persona] // [Drop]. Want the full cut? It’s pinned.
+
+Core Offer (T+24–48h)
+
+Core is live. [X% off] for the first [cap]. Expires in 24h.
+
+VIP Nudge (T+72–96h)
+
+VIP gets the early cuts, longer edits, and the polls that change the story. Code: [VIP24H].
+
+Winback (Day 10–14)
+
+Missed the cut? Director’s Pack is open for 24h. After that, it’s vault time.
+
+⸻
+
+5) Offer Ladder Card
+	•	Name: [CORE20FIRST200]
+	•	Tier: Core | VIP | PPV
+	•	Type: % | fixed
+	•	Value: [20]
+	•	Cap: [200 uses]
+	•	Window: [Start–End]
+	•	Scarcity Copy: 24h price lock; after that standard.
+	•	Creative Used: [teaser_A / teaser_B]
+	•	Expected Take-Rate: [x%]
+
+⸻
+
+6) PPV Pack Template
+
+TITLE: [Drop – Director’s Cut]
+RUNTIME: [8m]
+INCLUDES: [extra angles, alt color grade, BTS]
+PRICE: $[19] | WINDOW: [24h]
+TRAILER (15–20s): [link/file]
+DM COPY: You unlocked Core. Want the long cut? $19 until midnight.
+
+⸻
+
+7) Prompt Sheet (Image/Video)
+
+Positive:
+cinematic portrait of [persona], [expression], [lighting], [set], premium styling, realistic skin texture, 85mm DOF, HDR, cohesive grading (ink black + magenta accent), clean composition, vogue editorial, velvet textures, subtle rim light
+
+Negative:
+blurry, low-res, plastic skin, extra fingers, distorted anatomy, watermark, text artifacts, over/underexposed
+
+Video add-ons:
+slow parallax, micro-expressions, breathing loop, hair movement, fabric flutter, 6–8 seconds, seamless loop
+
+⸻
+
+8) Social Post Template (per platform)
+
+Instagram/TikTok (Teaser)
+	•	Caption: New siren made of midnight and side-eye. Full set at the hub.
+	•	Hashtags: #SirenSyndicate #SirenDrop #[Persona] #[Niche]
+	•	Alt text: Cinematic teaser, noir lighting, magenta accent.
+	•	Pin & cover: yes on launch; rotate after 48h.
+
+X (Launch)
+	•	Copy: DROP [###] // [Persona]: “[Title]”. Story first, skin later. The hub has the full thing.
+	•	Link: UTM’d hub/post.
+
+Reddit (SFW subs only)
+	•	Title: [Persona] | “[Title]” | Siren Syndicate — SFW tease
+	•	Body: 1–2 lines + link to hub. Follow sub rules.
+
+⸻
+
+9) Reddit Submission Checklist
+	•	Sub allows AI art/models
+	•	Title length & tag rules followed
+	•	No explicit content/terms
+	•	1 image or short SFW clip
+	•	Comment reply ready (non-spammy, witty)
+
+⸻
+
+10) Collab/Affiliate Outreach (DM/Email)
+
+Subject: Siren x [Creator] — [Niche] collab
+Body:
+
+Love your [niche] work. Siren Syndicate runs story-first AI personas.
+Pitch: [persona] in [shared niche]; we handle prompts, edits, and copy.
+You keep [rev share or fixed]. 1 teaser on your socials + link to your page.
+If you’re game, I’ll send a 1-page plan and assets within 24h.
+
+(Attach mini moodboard + one teaser frame.)
+
+⸻
+
+11) Weekly Ops Review
+
+Wins:
+Losses:
+Top 3 Posts (why they worked):
+Bottom 3 Posts (what to fix):
+Funnel metrics: Impr → Click → Core → VIP → PPV
+Experiments queued (A/B):
+Next week plan (3 bullets):
+
+⸻
+
+12) Filename & Folder Schema
+
+/SirenSyndicate/[Persona]/[DROP_CODE]/RAW
+/SirenSyndicate/[Persona]/[DROP_CODE]/EDITS
+/SirenSyndicate/[Persona]/[DROP_CODE]/CLIPS
+/SirenSyndicate/[Persona]/[DROP_CODE]/PROMO
+
+File: siren-[persona]-[niche]-[asset]-[1080x1920].mp4
+Ex: siren-echo-knox-noir-teaserA-1080x1920.mp4
+
+
+⸻
+
+13) UTM Builder
+
+Base: https://sirensyndicate.com/link
+?utm_source=[instagram|tiktok|twitter|reddit]
+&utm_medium=[bio|post|story|dm]
+&utm_campaign=[ss_ek_001]
+&utm_content=[teaser_01|vip_trailer]
+
+
+⸻
+
+14) Customer Support Macros (SFW phrasing)
+
+Payment/Access:
+
+Your purchase is active. Try refreshing the Fanvue app; if it persists, ping me with your receipt ID and I’ll escalate.
+
+Boundary Reminder:
+
+To keep the studio safe and live, explicit details stay inside Fanvue. Socials are SFW-only.
+
+Refund (within policy):
+
+I can process a refund for [reason]. Expect it in 3–5 business days.
+
+⸻
+
+15) Compliance Matrix Entry
+
+Platform: [IG/TikTok/X/Reddit/Fanvue]
+Nudity Rule (plain): [summarize]
+Banned Terms: [list]
+Link Policy: [ok/not ok]
+Risk Level: Low | Medium | High
+Last Reviewed: [date]
+
+⸻
+
+16) Set & Wardrobe Planner
+
+Look name: [Velvet Static]
+Palette: ink black / magenta
+Wardrobe: [items]
+Props: [chrome accents, books, visor]
+Lighting notes: [noir rim + soft key]
+Cost: $[ ]
+Reuse count (other drops): [ ]
+
+⸻
+
+17) Caption A/B Lab
+
+Variant A: [hook style]
+Variant B: [hook style]
+Hook Type: tease | authority | lore
+Post URL(s): [ ]
+Impressions/Clicks/Conv: [ ]
+Winner: A | B
+Next step: Use winner in Posts DB
+
+⸻
+
+18) Email Magnet & Drip Map (SFW)
+
+Magnet: Siren Lookbook: 12 Archetypes
+Delivery: auto on signup
+Drip:
+	•	D0: Lookbook + Core code
+	•	D2: Top 3 drops w/ lore
+	•	D5: VIP trailer + 24h code
+Opt-in → Core conv target: [x%]
+
+⸻
+
+19) Risk & Incident Log
+
+Date / Platform / Issue / Action / Outcome / Follow-up Date
+Keep it boring; boring logs save accounts.
+
+⸻
+
+20) “Director’s Cut” Packaging (VIP)
+
+Cut: [Name]
+Runtime: [m:ss]
+Bonus: [list]
+Price/Window: $[ ] / [ ]h
+Scarcity line: Vaults after [time].
+
+⸻
+
+Quick way to deploy
+	•	Drop each block as a Notion template inside the matching DB (Drops, Posts, Tasks, Offers, etc.).
+	•	Glue them together with relations (Drops ↔ Posts, Drops ↔ Assets).
+	•	Use 3–5 hashtags max; always 1 brand tag, 1 drop tag, 1 persona/niche, 1 discovery.
