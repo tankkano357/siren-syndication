@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "persona": "Echo Knox"
+  },
+  "negative_prompt": "blur, distortion, disfigurement, low quality, grainy, abstract",
+  "quality_boosters": "highly detailed, sharp textures, professional lighting, cinematic depth of field, creamy bokeh, realistic skin",
+  "SFW": [
+    "deadpan studio portrait, razor eyeliner, teasing half-smile, soft rim light, Nikon full-frame look",
+    "rooftop sunrise fashion set, hair in messy bun, confident posture, golden hour glow",
+    "beauty headshot, glossy hair, subtle highlight on cheekbones, softbox catchlights, shallow depth of field",
+    "streetwear alley pose, hands in pockets, sly grin, puddle reflections, slight film grain",
+    "window-light boudoir implied, sheer robe, linen textures, relaxed pose, understated seduction"
+  ],
+  "Spicy": [
+    "lingerie editorial, lace details, seated on bed edge, playful dominance in the gaze, natural window light",
+    "shower steam portrait, wet hair slicked back, finger on lower lip, fogged glass, cinematic highlights",
+    "silhouette behind sheer curtain, elegant posture, hourglass outline, golden backlight, moody suite",
+    "close-up collarbone and lips, whispering smirk, glistening skin, intimate framing, creamy bokeh",
+    "nighttime city-view suite, robe and heels, reflective glass, commanding presence"
+  ],
+  "NSFW_SafeUse": [
+    "bedroom set, confident lounging pose, lingerie ensemble, soft window light, tasteful composition, suggestive not explicit",
+    "back-arched pose on chaise, highlight curves, dramatic shadows, refined and elegant mood",
+    "standing by balcony door, robe slightly open, side profile emphasis, cinematic city backdrop"
+  ]
+}
